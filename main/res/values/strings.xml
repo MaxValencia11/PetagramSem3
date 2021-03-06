@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Petagram</string>
+
+    <string name="CVnombre">Mascota</string>
+    <string name="CVRating">5</string>
+    <string name="email">max@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
